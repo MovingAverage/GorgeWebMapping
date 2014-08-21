@@ -19,13 +19,18 @@ To Create a ready to use webmap using Openlayers and GeoExt. Open for anyone to 
 #### Tasks v2
 - [ ] Create layers file to link to index.html
 - [ ] Create theme package
+- [ ] Layer opacity
+- [ ] popups
+- [ ] scale chooser and zoom slider
 
 #### Tasks v3
 - [ ] Intergrate OpenCV (https://github.com/Itseez/opencv)
 
 For examples : http://geoext.org/examples.html
 
-Help wanted
+Example websites currently using openlayers :
+- http://smap.landcareresearch.co.nz/
+- https://data.linz.govt.nz/
 
 ### Files:
 - index.html - main file
