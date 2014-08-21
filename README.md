@@ -13,7 +13,7 @@ Current version 0.0.1
 Help wanted
 
 Files:
-----------
+===========
 index.html - main file
 Layers - file containing the layers to be included in the map
 Theme - layout of the mapping page
