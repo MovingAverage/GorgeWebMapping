@@ -10,8 +10,21 @@ To Create a ready to use webmap using Openlayers and GeoExt. Open for anyone to 
 - [ ] Themable - the ability for people to easily create themes
 - [ ] Full screen web map
 
+### Versions
+#### Tasks v1
+- [ ] create ExtJS layout : create layer tree (see : http://dev.sencha.com/deploy/ext-4.0.0/examples/layout-browser/layout-browser.html)
+- [ ] create GeoExt widgets : print, search, identify (see : http://geoext.org/lib/)
+- [ ] link to WMS layers in index.html
 
-### Current version 0.0.1
+#### Tasks v2
+- [ ] Create layers file to link to index.html
+- [ ] Create theme package
+
+#### Tasks v3
+- [ ] Intergrate OpenCV (https://github.com/Itseez/opencv)
+
+For examples : http://geoext.org/examples.html
+
 Help wanted
 
 ### Files:
