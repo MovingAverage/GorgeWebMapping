@@ -8,3 +8,6 @@ To Create a ready to use webmap using Openlayers and GeoExt. Open for anyone to 
 Current version 0.0.1
 Help wanted
 
+Files:
+----------
+index.html - main file
