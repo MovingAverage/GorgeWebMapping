@@ -22,9 +22,12 @@ To Create a ready to use webmap using Openlayers and GeoExt. Open for anyone to 
 - [ ] Layer opacity
 - [ ] popups
 - [ ] scale chooser and zoom slider
+- [ ] Documentation (readthedoc.org)
 
 #### Tasks v3
 - [ ] Intergrate OpenCV (https://github.com/Itseez/opencv)
+- [ ] Quickstart guide
+- [ ] Installation guide
 
 For examples : http://geoext.org/examples.html
 
