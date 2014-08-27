@@ -10,6 +10,8 @@
 
   1.4   References
 
+        Best practices for GitHub development : http://www.rdegges.com/successful-github-development/
+
   1.5   Overview of the remainder of the document
 
 ##    General description
